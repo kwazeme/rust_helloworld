@@ -8,7 +8,7 @@ This is a demostration to show that the fundamentals of the rust compiler are co
 
 See link to demostration of working software below:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/a78246383c6a433a818259cdbcdbe399)
 
 # Development Environment
 
